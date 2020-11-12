@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from  './mica.png';
 import './App.css';
 
 function App() {
@@ -6,18 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Karlo je car!!!!
-        </p>
-
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <br></br>
+        <h1>moja mica maca</h1>
       </header>
     </div>
   );
